@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rasel sarker</h1>
 <h3 align="center">A Passionate Full Stack Developer | Remote & On-site.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/raselsarker11/raselsarker11/assets/137808221/1e924b70-eb1b-40d8-9f6a-25825e50a405)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
 - 🔭 I’m currently working on [E-commerce Project](https://raselsarker11.github.io/Happy-shoping/)
