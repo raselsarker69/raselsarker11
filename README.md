@@ -1,3 +1,4 @@
+<p align="left"> <img src="github-cover.png" alt=".." /> </p>
 <h1 align="center">Hi 👋, I'm Rasel sarker</h1>
 <h3 align="center">A Passionate Full Stack Developer | Remote & On-site.</h3>
 
