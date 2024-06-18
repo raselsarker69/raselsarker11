@@ -150,16 +150,21 @@
 
 
 
-<h3>Github Stats</h3>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact" alt="raselsarker11" /></p>
+<div align="left">
+  <h2>👋Github Stats👋</h2>
+  <br/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact&theme=dark" alt="raselsarker11" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en&theme=dark" alt="raselsarker11" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&theme=dark" alt="raselsarker11" /></p>
+  <br/>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en" alt="raselsarker11" /></p>
+ <br/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&" alt="raselsarker11" /></p>
-<hr>
 
-<h3>Visitor count</h3>
-<hr>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Shoot+me+a+message+in+linkedin!+👋;+Thanks+for+visiting+my+profile" alt="Typing  SVG" /></a>
+</h1>
 
 
