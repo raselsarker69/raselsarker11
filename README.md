@@ -2,7 +2,7 @@
 
 <h1 align="center">
  <p>Hi there👋, Assalamu Alaikum.</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=32&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
 </h1>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
