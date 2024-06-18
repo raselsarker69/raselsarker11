@@ -1,36 +1,58 @@
-<p align="left"> <img src="github-cover.png" alt=".." /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
+
+
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!+👋;+I'm+Rasel+sarker" alt="Typing SVG" /></a>
+</h1>
+
+
 <h1 align="center">Hi there, Assalamu Alaikum👋, I'm Rasel sarker </h1>
 
-<h3 align="center">A Passionate Full Stack Developer | Remote & On-site.</h3>
+<h3 align="center">A Passionate Python / Django Developer from Remote || On-site.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
+<div align="center">
+    - 🌱 I’m currently learning <u>React.js, Web Scraping, Pandas, NumPy, and Machine Learning & Deep Learning.</u>
 
-- 🌱 I’m currently learning <u>React.js, Web Scraping, Pandas, NumPy, and Machine Learning & Deep Learning.</u>
+    <p>👨‍💻 All of my projects are available at: 
+      <a href="https://my-portfolio-eight-ebon-51.vercel.app">https://my-portfolio-eight-ebon-51.vercel.app</a>
+    </p>
+    
+    - 👨‍💻 All of my projects are available at : href="https://my-portfolio-eight-ebon-51.vercel.app 
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-eight-ebon-51.vercel.app/](https://my-portfolio-eight-ebon-51.vercel.app/)
+    - 📝 I regularly write articles on : href="https://my-portfolio-eight-ebon-51.vercel.app 
+    
+    - 📫 How to reach me: raselsarkercse@gmail.com
+</div>
 
-- 📝 I regularly write articles on [https://my-portfolio-eight-ebon-51.vercel.app/](https://my-portfolio-eight-ebon-51.vercel.app/)
-
-- 📫 How to reach me <u>raselsarkercse@gmail.com</u>
 <hr>
-
 
 <h3 align="left">Reach Me Out:</h3>
 <hr>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rasel-sarker-405160227/" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; border-radius: 5px; background-color: #0077b5; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasel sarker" height="30" width="40" style="vertical-align: middle;" />
+
+<div align="center>
+    <a href="raselsarkercse@gmali.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.facebook.com/mdrasel.sarker.7773631" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; border-radius: 5px; background-color: #3b5998; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasel sarker" height="30" width="40" style="vertical-align: middle;" />
+    <a href="https://www.linkedin.com/in/rasel-sarker-405160227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.youtube.com/channel/UCmUXb0GVw5HfF7DBSg8rqAg" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; border-radius: 5px; background-color: #ff0000; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roots tech 101" height="30" width="40" style="vertical-align: middle;" />
+  <a href="https://www.facebook.com/mdrasel.sarker.7773631" target="_blank" >
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
-  <a href="rasel_sarker" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; border-radius: 5px; background-color: #7289da; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raselsarker" height="30" width="40" style="vertical-align: middle;" />
+  <a href="https://www.facebook.com/mdrasel.sarker.7773631" target="_blank" >
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-</p>
+  
+  <a href="https://www.youtube.com/channel/UCmUXb0GVw5HfF7DBSg8rqAg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </a>
+  
+  <a href="rasel_sarker" target="_blank" >
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+</div>
+
 <hr>
 
 
