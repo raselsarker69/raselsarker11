@@ -1,4 +1,3 @@
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
 
@@ -8,7 +7,7 @@
 
 
 <h1 align="center">Hi there, Assalamu Alaikum👋, I'm Rasel sarker </h1>
-
+<br/>
 
 <h3 align="center">A Passionate Python / Django Developer from Remote || On-site.</h3>
 <br/>
@@ -16,17 +15,13 @@
 
 
 <div align="center">
-    - 🌱 I’m currently learning <u>React.js, Web Scraping, Pandas, NumPy, and Machine Learning & Deep Learning.</u>
+    - 🔭 I’m currently working on [E-commerce Project](https://raselsarker11.github.io/Happy-shoping/)
 
-    <p>👨‍💻 All of my projects are available at: 
-      <a href="https://my-portfolio-eight-ebon-51.vercel.app">https://my-portfolio-eight-ebon-51.vercel.app</a>
-    </p>
+    - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**
     
-    - 👨‍💻 All of my projects are available at : href="https://my-portfolio-eight-ebon-51.vercel.app 
-
-    - 📝 I regularly write articles on : href="https://my-portfolio-eight-ebon-51.vercel.app 
+    - 💬 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL**
     
-    - 📫 How to reach me: raselsarkercse@gmail.com
+    - 📫 How to reach me **raselsarkercse@gmail.com**
 </div>
 
 <hr>
@@ -154,5 +149,5 @@
 
 <h3>Visitor count</h3>
 <hr>
-![Profile Views](https://komarev.com/ghpvc/?username=raselsarker11&color=green)
+
 
