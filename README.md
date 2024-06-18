@@ -18,7 +18,7 @@
     - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**<br/>
     - 🚀 I’m currently working on **E-commerce Project.**<br/>
     - 🩺 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
-    - 🛰️ How to reach me **raselsarkercse@gmail.com**<br/><br/><br/>
+    - 🛰️ How to reach me **raselsarkercse@gmail.com**<br/>
 </div>
 <br/>
 <hr>
