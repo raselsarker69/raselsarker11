@@ -24,9 +24,9 @@
 <hr>
 <br/>
 
-<h3 align="left">☎️ Connect with me:</h3>
-<hr>
-
+<h1 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=32&center=true&vCenter=true&lines=☎️+Connect+with+me." alt="Typing SVG" /></a>
+</h1><br/>
 
 
 <div align="center>
