@@ -15,10 +15,10 @@
 
 
 <div align="center">
-    - 🔭 I’m currently working on [E-commerce Project](https://raselsarker11.github.io/Happy-shoping/)
-
     - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**
-    
+ 
+    - 🔭 I’m currently working on : E-commerce Project
+
     - 💬 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL**
     
     - 📫 How to reach me **raselsarkercse@gmail.com**
