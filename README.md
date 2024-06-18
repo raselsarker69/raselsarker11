@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="1250" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">
  <p>Hi there, Assalamu Alaikum👋,</p>
@@ -6,7 +6,6 @@
 </h1>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
