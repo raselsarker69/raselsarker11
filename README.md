@@ -61,7 +61,7 @@
 
 
 
-<h3 align="left">Technologies & Tools:</h3>
+<h3 align="left">Technologies-Framework-Tools:</h3>
 <hr>
 
 <p align="left">
@@ -134,6 +134,17 @@
   </a>
 </p>
 <hr>
+
+
+
+<div align="center">
+  <h2>👋My Contributions👋</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
+
+ 
+  <br/><br/><br/>
+</div>
 
 
 
