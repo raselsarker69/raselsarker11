@@ -6,6 +6,10 @@
 </h1>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+
 
 <h3 align="left"><span color="purple">A Passionate Python / Django Developer from Remote || On-site.</span></h3>
 <br/>
@@ -15,9 +19,9 @@
     - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**<br/>
     - 🚀 I’m currently working on **E-commerce Project.**<br/>
     - 🩺 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
-    - 🛰️ How to reach me **raselsarkercse@gmail.com**<br/>
+    - 🛰️ How to reach me **raselsarkercse@gmail.com**<br/><br/><br/>
 </div>
-
+<br/>
 <hr>
 <br/>
 
