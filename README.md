@@ -21,7 +21,7 @@
 <hr>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">☎️ Connect with me:</h3>
 <hr>
 
 
@@ -56,7 +56,7 @@
 
 
 <br/>
-<h3 align="left">Technologies-Framework-Tools:</h3>
+<h3 align="left">🎯 Technologies-Framework-Tools:</h3>
 <hr>
 
 <p align="left">
@@ -133,7 +133,7 @@
 
 <br/>
 <div align="left">
-  <h2>👋My Contributions👋</h2>
+  <h2>🏆My Contributions</h2>
   
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
 
@@ -145,7 +145,7 @@
 
 
 <div align="left">
-  <h2>👋Github Stats👋</h2>
+  <h2>🏅Github Stats</h2>
   <br/>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raselsarker11&show_icons=true&locale=en&layout=compact&theme=dark" alt="raselsarker11" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raselsarker11&show_icons=true&locale=en&theme=dark" alt="raselsarker11" /></p>
