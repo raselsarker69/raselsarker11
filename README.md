@@ -25,6 +25,7 @@
 </div>
 
 <hr>
+<br/>
 
 <h3 align="left">Reach Me Out:</h3>
 <hr>
@@ -60,7 +61,7 @@
 <hr>
 
 
-
+<br/>
 <h3 align="left">Technologies-Framework-Tools:</h3>
 <hr>
 
@@ -136,8 +137,8 @@
 <hr>
 
 
-
-<div align="center">
+<br/>
+<div align="left">
   <h2>👋My Contributions👋</h2>
   <br/>
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
