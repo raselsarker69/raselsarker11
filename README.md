@@ -1,33 +1,27 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!+👋;+I'm+Rasel+sarker" alt="Typing SVG" /></a>
+ <p>Hi there, Assalamu Alaikum👋,</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=32&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
 </h1>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
-
-<h1 align="center">Hi there, Assalamu Alaikum👋, I'm Rasel sarker </h1>
+<h3 align="left"><span color="purple">A Passionate Python / Django Developer from Remote || On-site.</span></h3>
 <br/>
 
-<h3 align="center">A Passionate Python / Django Developer from Remote || On-site.</h3>
-<br/>
 
-
-
-<div align="center">
-    - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**
- 
-    - 🔭 I’m currently working on : E-commerce Project
-
-    - 💬 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL**
-    
-    - 📫 How to reach me **raselsarkercse@gmail.com**
+<div align="left">
+    - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**<br/>
+    - 🌱 I’m currently working on **E-commerce Project.**<br/>
+    - 🌱 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
+    - 🌱 How to reach me **raselsarkercse@gmail.com**<br/>
 </div>
 
 <hr>
 <br/>
 
-<h3 align="left">Reach Me Out:</h3>
+<h3 align="left">Connect with me:</h3>
 <hr>
 
 
@@ -140,11 +134,11 @@
 <br/>
 <div align="left">
   <h2>👋My Contributions👋</h2>
-  <br/>
+  
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
 
  
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 
