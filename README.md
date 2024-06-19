@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1250" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">
- <p>Hi there👋, Assalamu Alaikum.</p>
+ <p>Hi there👋, Welcome to My Coding Playground.</p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'm+Rasel+Sarkar👋." alt="Typing SVG" /></a>
 </h1>
 <br/>
@@ -25,7 +25,7 @@
 <br/>
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=32&center=true&vCenter=true&lines=☎️+Connect+with+me." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=30&center=true&vCenter=true&lines=☎️+Connect+with+me." alt="Typing SVG" /></a>
 </h1><br/>
 
 
@@ -136,7 +136,9 @@
 
 <br/>
 <div align="left">
-  <h2>🏆My Contributions</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=30&center=true&vCenter=true&lines=🏆+My+Contributions:" alt="Typing SVG" />
+  </a>
   
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
 
