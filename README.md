@@ -139,7 +139,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=30&center=true&vCenter=true&lines=🏆+My+Contributions:" alt="Typing SVG" />
   </a>
-  
+  <hr>
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
 
  
