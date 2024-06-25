@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker11&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker11" /> </p>
 
-
-
-<h3 align="left"><span color="purple">A Passionate Python / Django Developer from Remote || On-site.</span></h3>
+<h3 align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> A Passionate Python / Django    Developer from Remote & On-site 
+</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="left">
     - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**<br/>
@@ -131,12 +131,34 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-   <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom">My Contributions 🏆 </h2>
+    <h2>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" valign="bottom" alt="Contributions Animation"> 
+      My Contributions 🏆 
+    </h2>
   </a>
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions">
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
+
+<div align="center">
+ <h1>Visitor count</h1>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{raselsarker11}/count.svg)
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/raselsarker11/raselsarker11/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/raselsarker11/raselsarker11/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/raselsarker11/raselsarker11/blob/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif"><br><br>
+<br />
+
 
 
 
