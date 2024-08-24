@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="1250" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">
  <p>Hi there👋, Welcome to My Coding Playground.</p>
@@ -12,17 +11,17 @@
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="left">
-    - 🌱 I’m currently learning **React.js, Web Scraping, Pandas, NumPy and Machine Learning & Deep Learning.**<br/>
+    - 🌱 I’m currently learning **Machine Learning & Data Science, Deep Learning & Generative AI**<br/>
     - 🚀 I’m currently working on **E-commerce Project.**<br/>
     - 🩺 Ask me about **Python, DRF, C/C++, React.js, Tailwind CSS, MySQL, PostgreSQL.**<br/>
-    - 🛰️ How to reach me **raselsarkercse@gmail.com**<br/>
+    - 🛰️ How to reach me **rasel.sarker6933@gmail.com**<br/>
 </div>
 
 
 
 <br><br>
 <h1 align="left">
- <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Contact with me ☎️</h2>
+ <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Connect with me ☎️</h2>
 </h1>
 
 
@@ -129,17 +128,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
-<div align="center">
- <h1>
-      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" valign="bottom" alt="Contributions Animation"> 
-      Visitor count
- </h1>
 
- 
-![Visitor Count](https://profile-counter.glitch.me/{raselsarker11}/count.svg)
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/>
+<!--<br/>
 <div align="left">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tahsin005/tahsin005/blob/main/github-contribution-grid-snake-dark.svg">
@@ -148,7 +139,7 @@
 </picture>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif"><br><br>
-<br />
+<br /> -->
 
 
 
